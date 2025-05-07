@@ -1,0 +1,58 @@
+[0.609s] Invoking command in '/home/mi/rokey_ws/src/depth_ros': PYTHONPATH=/home/mi/rokey_ws/build/depth_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/depth_ros build --build-base /home/mi/rokey_ws/build/depth_ros/build install --record /home/mi/rokey_ws/build/depth_ros/install.log --single-version-externally-managed install_data
+[0.760s] running egg_info
+[0.761s] creating ../../build/depth_ros/depth_ros.egg-info
+[0.761s] writing ../../build/depth_ros/depth_ros.egg-info/PKG-INFO
+[0.761s] writing dependency_links to ../../build/depth_ros/depth_ros.egg-info/dependency_links.txt
+[0.761s] writing entry points to ../../build/depth_ros/depth_ros.egg-info/entry_points.txt
+[0.761s] writing requirements to ../../build/depth_ros/depth_ros.egg-info/requires.txt
+[0.761s] writing top-level names to ../../build/depth_ros/depth_ros.egg-info/top_level.txt
+[0.761s] writing manifest file '../../build/depth_ros/depth_ros.egg-info/SOURCES.txt'
+[0.762s] reading manifest file '../../build/depth_ros/depth_ros.egg-info/SOURCES.txt'
+[0.762s] adding license file 'LICENSE'
+[0.762s] writing manifest file '../../build/depth_ros/depth_ros.egg-info/SOURCES.txt'
+[0.763s] running build
+[0.763s] running build_py
+[0.763s] creating /home/mi/rokey_ws/build/depth_ros/build
+[0.763s] creating /home/mi/rokey_ws/build/depth_ros/build/lib
+[0.763s] creating /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/4_gz_tf_transform.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/1_gz_depth_checker.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/2_gz_yolo_rgb_checker.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/3_gz_yolo_bbox_depth_checker.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/6_gz_tf_point_marker_publisher.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/5_gz_yolo_depth_object_xyz.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] copying depth_ros/__init__.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+[0.763s] running install
+[0.763s] running install_lib
+[0.764s] creating /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/4_gz_tf_transform.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/1_gz_depth_checker.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/2_gz_yolo_rgb_checker.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/3_gz_yolo_bbox_depth_checker.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/6_gz_tf_point_marker_publisher.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/5_gz_yolo_depth_object_xyz.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.764s] copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/__init__.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+[0.765s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/4_gz_tf_transform.py to 4_gz_tf_transform.cpython-310.pyc
+[0.765s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/1_gz_depth_checker.py to 1_gz_depth_checker.cpython-310.pyc
+[0.766s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/2_gz_yolo_rgb_checker.py to 2_gz_yolo_rgb_checker.cpython-310.pyc
+[0.766s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/3_gz_yolo_bbox_depth_checker.py to 3_gz_yolo_bbox_depth_checker.cpython-310.pyc
+[0.767s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/6_gz_tf_point_marker_publisher.py to 6_gz_tf_point_marker_publisher.cpython-310.pyc
+[0.768s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/5_gz_yolo_depth_object_xyz.py to 5_gz_yolo_depth_object_xyz.cpython-310.pyc
+[0.768s] byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/__init__.py to __init__.cpython-310.pyc
+[0.768s] running install_data
+[0.768s] creating /home/mi/rokey_ws/install/depth_ros/share/ament_index
+[0.768s] creating /home/mi/rokey_ws/install/depth_ros/share/ament_index/resource_index
+[0.768s] creating /home/mi/rokey_ws/install/depth_ros/share/ament_index/resource_index/packages
+[0.768s] copying resource/depth_ros -> /home/mi/rokey_ws/install/depth_ros/share/ament_index/resource_index/packages
+[0.769s] copying package.xml -> /home/mi/rokey_ws/install/depth_ros/share/depth_ros
+[0.769s] running install_egg_info
+[0.770s] Copying ../../build/depth_ros/depth_ros.egg-info to /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros-0.0.0-py3.10.egg-info
+[0.770s] running install_scripts
+[0.784s] Installing depth_checker script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+[0.784s] Installing object_xyz script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+[0.784s] Installing tf_point script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+[0.784s] Installing tf_trans script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+[0.784s] Installing yolo_checker script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+[0.784s] Installing yolo_depth_checker script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+[0.784s] writing list of installed files to '/home/mi/rokey_ws/build/depth_ros/install.log'
+[0.807s] Invoked command in '/home/mi/rokey_ws/src/depth_ros' returned '0': PYTHONPATH=/home/mi/rokey_ws/build/depth_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/depth_ros build --build-base /home/mi/rokey_ws/build/depth_ros/build install --record /home/mi/rokey_ws/build/depth_ros/install.log --single-version-externally-managed install_data

@@ -1,0 +1,23 @@
+[0.513s] Invoking command in '/home/mi/rokey_ws/build/rokey_pjt': PYTHONPATH=/home/mi/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mi/rokey_ws/build/rokey_pjt/build --no-deps symlink_data
+[0.701s] running develop
+[0.816s] running egg_info
+[0.816s] writing rokey_pjt.egg-info/PKG-INFO
+[0.816s] writing dependency_links to rokey_pjt.egg-info/dependency_links.txt
+[0.816s] writing entry points to rokey_pjt.egg-info/entry_points.txt
+[0.816s] writing requirements to rokey_pjt.egg-info/requires.txt
+[0.816s] writing top-level names to rokey_pjt.egg-info/top_level.txt
+[0.818s] reading manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+[0.819s] writing manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+[0.820s] running build_ext
+[0.820s] Creating /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey-pjt.egg-link (link to .)
+[0.821s] Installing capture_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] Installing cont_cap_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] Installing depth_check script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] Installing det_obj script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] Installing det_obj_thread script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] Installing det_obj_track script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] Installing tf_trans script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.821s] 
+[0.821s] Installed /home/mi/rokey_ws/build/rokey_pjt
+[0.821s] running symlink_data
+[0.854s] Invoked command in '/home/mi/rokey_ws/build/rokey_pjt' returned '0': PYTHONPATH=/home/mi/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mi/rokey_ws/build/rokey_pjt/build --no-deps symlink_data

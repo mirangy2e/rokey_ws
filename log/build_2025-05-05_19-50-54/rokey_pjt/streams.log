@@ -1,0 +1,41 @@
+[0.498s] Invoking command in '/home/mi/rokey_ws/src/rokey_pjt': PYTHONPATH=/home/mi/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rokey_pjt build --build-base /home/mi/rokey_ws/build/rokey_pjt/build install --record /home/mi/rokey_ws/build/rokey_pjt/install.log --single-version-externally-managed install_data
+[0.680s] running egg_info
+[0.680s] writing ../../build/rokey_pjt/rokey_pjt.egg-info/PKG-INFO
+[0.680s] writing dependency_links to ../../build/rokey_pjt/rokey_pjt.egg-info/dependency_links.txt
+[0.680s] writing entry points to ../../build/rokey_pjt/rokey_pjt.egg-info/entry_points.txt
+[0.681s] writing requirements to ../../build/rokey_pjt/rokey_pjt.egg-info/requires.txt
+[0.681s] writing top-level names to ../../build/rokey_pjt/rokey_pjt.egg-info/top_level.txt
+[0.682s] reading manifest file '../../build/rokey_pjt/rokey_pjt.egg-info/SOURCES.txt'
+[0.682s] adding license file 'LICENSE'
+[0.683s] writing manifest file '../../build/rokey_pjt/rokey_pjt.egg-info/SOURCES.txt'
+[0.683s] running build
+[0.683s] running build_py
+[0.683s] copying rokey_pjt/6_nav_to_pose_sc.py -> /home/mi/rokey_ws/build/rokey_pjt/build/lib/rokey_pjt
+[0.684s] running install
+[0.684s] running install_lib
+[0.685s] copying /home/mi/rokey_ws/build/rokey_pjt/build/lib/rokey_pjt/6_nav_to_pose_sc.py -> /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt
+[0.685s] byte-compiling /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt/6_nav_to_pose_sc.py to 6_nav_to_pose_sc.cpython-310.pyc
+[0.686s] running install_data
+[0.686s] running install_egg_info
+[0.688s] removing '/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt-0.0.0-py3.10.egg-info' (and everything under it)
+[0.688s] Copying ../../build/rokey_pjt/rokey_pjt.egg-info to /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt-0.0.0-py3.10.egg-info
+[0.689s] running install_scripts
+[0.707s] Installing capture_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.707s] Installing cont_cap_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.707s] Installing crop_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.707s] Installing depth_check script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.707s] Installing det_obj script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.707s] Installing det_obj_thread script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing det_obj_track script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing follow_waypoints script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing follow_waypoints_sc script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing nav_through_poses script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing nav_through_poses_sc script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing nav_to_pose script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing nav_to_pose_sc script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing object_xyz script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing object_xyz_marker script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing tf_trans script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] Installing yolo_depth_checker script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.708s] writing list of installed files to '/home/mi/rokey_ws/build/rokey_pjt/install.log'
+[0.736s] Invoked command in '/home/mi/rokey_ws/src/rokey_pjt' returned '0': PYTHONPATH=/home/mi/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rokey_pjt build --build-base /home/mi/rokey_ws/build/rokey_pjt/build install --record /home/mi/rokey_ws/build/rokey_pjt/install.log --single-version-externally-managed install_data

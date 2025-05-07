@@ -1,0 +1,56 @@
+running egg_info
+creating ../../build/depth_ros/depth_ros.egg-info
+writing ../../build/depth_ros/depth_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/depth_ros/depth_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/depth_ros/depth_ros.egg-info/entry_points.txt
+writing requirements to ../../build/depth_ros/depth_ros.egg-info/requires.txt
+writing top-level names to ../../build/depth_ros/depth_ros.egg-info/top_level.txt
+writing manifest file '../../build/depth_ros/depth_ros.egg-info/SOURCES.txt'
+reading manifest file '../../build/depth_ros/depth_ros.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/depth_ros/depth_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mi/rokey_ws/build/depth_ros/build
+creating /home/mi/rokey_ws/build/depth_ros/build/lib
+creating /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/4_gz_tf_transform.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/1_gz_depth_checker.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/2_gz_yolo_rgb_checker.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/3_gz_yolo_bbox_depth_checker.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/6_gz_tf_point_marker_publisher.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/5_gz_yolo_depth_object_xyz.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+copying depth_ros/__init__.py -> /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros
+running install
+running install_lib
+creating /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/4_gz_tf_transform.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/1_gz_depth_checker.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/2_gz_yolo_rgb_checker.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/3_gz_yolo_bbox_depth_checker.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/6_gz_tf_point_marker_publisher.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/5_gz_yolo_depth_object_xyz.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+copying /home/mi/rokey_ws/build/depth_ros/build/lib/depth_ros/__init__.py -> /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/4_gz_tf_transform.py to 4_gz_tf_transform.cpython-310.pyc
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/1_gz_depth_checker.py to 1_gz_depth_checker.cpython-310.pyc
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/2_gz_yolo_rgb_checker.py to 2_gz_yolo_rgb_checker.cpython-310.pyc
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/3_gz_yolo_bbox_depth_checker.py to 3_gz_yolo_bbox_depth_checker.cpython-310.pyc
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/6_gz_tf_point_marker_publisher.py to 6_gz_tf_point_marker_publisher.cpython-310.pyc
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/5_gz_yolo_depth_object_xyz.py to 5_gz_yolo_depth_object_xyz.cpython-310.pyc
+byte-compiling /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mi/rokey_ws/install/depth_ros/share/ament_index
+creating /home/mi/rokey_ws/install/depth_ros/share/ament_index/resource_index
+creating /home/mi/rokey_ws/install/depth_ros/share/ament_index/resource_index/packages
+copying resource/depth_ros -> /home/mi/rokey_ws/install/depth_ros/share/ament_index/resource_index/packages
+copying package.xml -> /home/mi/rokey_ws/install/depth_ros/share/depth_ros
+running install_egg_info
+Copying ../../build/depth_ros/depth_ros.egg-info to /home/mi/rokey_ws/install/depth_ros/lib/python3.10/site-packages/depth_ros-0.0.0-py3.10.egg-info
+running install_scripts
+Installing depth_checker script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+Installing object_xyz script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+Installing tf_point script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+Installing tf_trans script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+Installing yolo_checker script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+Installing yolo_depth_checker script to /home/mi/rokey_ws/install/depth_ros/lib/depth_ros
+writing list of installed files to '/home/mi/rokey_ws/build/depth_ros/install.log'

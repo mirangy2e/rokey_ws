@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/gazebo_nav/gazebo_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/gazebo_nav/gazebo_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/gazebo_nav/gazebo_nav.egg-info/entry_points.txt
+writing requirements to ../../build/gazebo_nav/gazebo_nav.egg-info/requires.txt
+writing top-level names to ../../build/gazebo_nav/gazebo_nav.egg-info/top_level.txt
+reading manifest file '../../build/gazebo_nav/gazebo_nav.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/gazebo_nav/gazebo_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+copying gazebo_nav/nav_to_pose_sc.py -> /home/mi/rokey_ws/build/gazebo_nav/build/lib/gazebo_nav
+running install
+running install_lib
+copying /home/mi/rokey_ws/build/gazebo_nav/build/lib/gazebo_nav/nav_to_pose_sc.py -> /home/mi/rokey_ws/install/gazebo_nav/lib/python3.10/site-packages/gazebo_nav
+byte-compiling /home/mi/rokey_ws/install/gazebo_nav/lib/python3.10/site-packages/gazebo_nav/nav_to_pose_sc.py to nav_to_pose_sc.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mi/rokey_ws/install/gazebo_nav/lib/python3.10/site-packages/gazebo_nav-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/gazebo_nav/gazebo_nav.egg-info to /home/mi/rokey_ws/install/gazebo_nav/lib/python3.10/site-packages/gazebo_nav-0.0.0-py3.10.egg-info
+running install_scripts
+Installing current_pose script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+Installing follow_waypoints script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+Installing goal_pub script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+Installing goal_sub script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+Installing nav_through_poses script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+Installing nav_to_pose script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+Installing nav_to_pose_sc script to /home/mi/rokey_ws/install/gazebo_nav/lib/gazebo_nav
+writing list of installed files to '/home/mi/rokey_ws/build/gazebo_nav/install.log'

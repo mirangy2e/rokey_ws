@@ -1,0 +1,8 @@
+[console_scripts]
+depth_checker = depth_ros.1_gz_depth_checker:main
+object_xyz = depth_ros.5_gz_yolo_depth_object_xyz:main
+tf_point = depth_ros.6_gz_tf_point_marker_publisher:main
+tf_trans = depth_ros.4_gz_tf_transform:main
+yolo_checker = depth_ros.2_gz_yolo_rgb_checker:main
+yolo_depth_checker = depth_ros.3_gz_yolo_bbox_depth_checker:main
+

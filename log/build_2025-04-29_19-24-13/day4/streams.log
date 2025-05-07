@@ -1,0 +1,25 @@
+[0.502s] Invoking command in '/home/mi/rokey_ws/build/day4': PYTHONPATH=/home/mi/rokey_ws/build/day4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/day4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mi/rokey_ws/build/day4/build --no-deps symlink_data
+[0.691s] running develop
+[0.808s] running egg_info
+[0.808s] creating day4.egg-info
+[0.808s] writing day4.egg-info/PKG-INFO
+[0.809s] writing dependency_links to day4.egg-info/dependency_links.txt
+[0.809s] writing entry points to day4.egg-info/entry_points.txt
+[0.809s] writing requirements to day4.egg-info/requires.txt
+[0.809s] writing top-level names to day4.egg-info/top_level.txt
+[0.809s] writing manifest file 'day4.egg-info/SOURCES.txt'
+[0.810s] reading manifest file 'day4.egg-info/SOURCES.txt'
+[0.811s] writing manifest file 'day4.egg-info/SOURCES.txt'
+[0.812s] running build_ext
+[0.812s] Creating /home/mi/rokey_ws/install/day4/lib/python3.10/site-packages/day4.egg-link (link to .)
+[0.812s] Installing depth_checker script to /home/mi/rokey_ws/install/day4/lib/day4
+[0.813s] Installing depth_to_3d script to /home/mi/rokey_ws/install/day4/lib/day4
+[0.813s] 
+[0.813s] Installed /home/mi/rokey_ws/build/day4
+[0.813s] running symlink_data
+[0.813s] creating /home/mi/rokey_ws/install/day4/share/ament_index
+[0.813s] creating /home/mi/rokey_ws/install/day4/share/ament_index/resource_index
+[0.813s] creating /home/mi/rokey_ws/install/day4/share/ament_index/resource_index/packages
+[0.813s] symbolically linking /home/mi/rokey_ws/build/day4/resource/day4 -> /home/mi/rokey_ws/install/day4/share/ament_index/resource_index/packages
+[0.813s] symbolically linking /home/mi/rokey_ws/build/day4/package.xml -> /home/mi/rokey_ws/install/day4/share/day4
+[0.847s] Invoked command in '/home/mi/rokey_ws/build/day4' returned '0': PYTHONPATH=/home/mi/rokey_ws/build/day4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/day4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mi/rokey_ws/build/day4/build --no-deps symlink_data

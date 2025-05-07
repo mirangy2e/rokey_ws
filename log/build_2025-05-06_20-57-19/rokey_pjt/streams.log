@@ -1,0 +1,46 @@
+[0.478s] Invoking command in '/home/mi/rokey_ws/src/rokey_pjt': PYTHONPATH=/home/mi/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rokey_pjt build --build-base /home/mi/rokey_ws/build/rokey_pjt/build install --record /home/mi/rokey_ws/build/rokey_pjt/install.log --single-version-externally-managed install_data
+[0.650s] running egg_info
+[0.650s] writing ../../build/rokey_pjt/rokey_pjt.egg-info/PKG-INFO
+[0.650s] writing dependency_links to ../../build/rokey_pjt/rokey_pjt.egg-info/dependency_links.txt
+[0.650s] writing entry points to ../../build/rokey_pjt/rokey_pjt.egg-info/entry_points.txt
+[0.651s] writing requirements to ../../build/rokey_pjt/rokey_pjt.egg-info/requires.txt
+[0.651s] writing top-level names to ../../build/rokey_pjt/rokey_pjt.egg-info/top_level.txt
+[0.652s] reading manifest file '../../build/rokey_pjt/rokey_pjt.egg-info/SOURCES.txt'
+[0.652s] adding license file 'LICENSE'
+[0.653s] writing manifest file '../../build/rokey_pjt/rokey_pjt.egg-info/SOURCES.txt'
+[0.653s] running build
+[0.653s] running build_py
+[0.653s] copying rokey_pjt/5_tb4_yolo_depth_object_xyz_marker copy.py -> /home/mi/rokey_ws/build/rokey_pjt/build/lib/rokey_pjt
+[0.653s] copying rokey_pjt/5_tb4_yolo_depth_object_xyz_marker.py -> /home/mi/rokey_ws/build/rokey_pjt/build/lib/rokey_pjt
+[0.654s] running install
+[0.654s] running install_lib
+[0.655s] copying /home/mi/rokey_ws/build/rokey_pjt/build/lib/rokey_pjt/5_tb4_yolo_depth_object_xyz_marker copy.py -> /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt
+[0.655s] copying /home/mi/rokey_ws/build/rokey_pjt/build/lib/rokey_pjt/5_tb4_yolo_depth_object_xyz_marker.py -> /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt
+[0.656s] byte-compiling /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt/5_tb4_yolo_depth_object_xyz_marker copy.py to 5_tb4_yolo_depth_object_xyz_marker copy.cpython-310.pyc
+[0.657s] byte-compiling /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt/5_tb4_yolo_depth_object_xyz_marker.py to 5_tb4_yolo_depth_object_xyz_marker.cpython-310.pyc
+[0.659s] running install_data
+[0.659s] running install_egg_info
+[0.660s] removing '/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt-0.0.0-py3.10.egg-info' (and everything under it)
+[0.661s] Copying ../../build/rokey_pjt/rokey_pjt.egg-info to /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey_pjt-0.0.0-py3.10.egg-info
+[0.661s] running install_scripts
+[0.678s] Installing capture_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.678s] Installing cont_cap_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.678s] Installing crop_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.678s] Installing depth_check script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing det_obj script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing det_obj_thread script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing det_obj_track script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing follow_waypoints script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing follow_waypoints_sc script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing goal_pub script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing goal_sub script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing nav_through_poses script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing nav_through_poses_sc script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing nav_to_pose script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing nav_to_pose_sc script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing object_xyz script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing object_xyz_marker script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing tf_trans script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] Installing yolo_depth_checker script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.679s] writing list of installed files to '/home/mi/rokey_ws/build/rokey_pjt/install.log'
+[0.707s] Invoked command in '/home/mi/rokey_ws/src/rokey_pjt' returned '0': PYTHONPATH=/home/mi/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rokey_pjt build --build-base /home/mi/rokey_ws/build/rokey_pjt/build install --record /home/mi/rokey_ws/build/rokey_pjt/install.log --single-version-externally-managed install_data

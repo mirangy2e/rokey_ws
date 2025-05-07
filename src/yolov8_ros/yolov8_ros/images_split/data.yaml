@@ -1,0 +1,5 @@
+names: [0]
+nc: 1
+test: /home/mi/rokey_ws/src/yolov8_ros/yolov8_ros/images_split/test
+train: /home/mi/rokey_ws/src/yolov8_ros/yolov8_ros/images_split/train
+val: /home/mi/rokey_ws/src/yolov8_ros/yolov8_ros/images_split/val

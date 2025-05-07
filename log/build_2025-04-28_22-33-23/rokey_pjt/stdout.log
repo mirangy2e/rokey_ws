@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating rokey_pjt.egg-info
+writing rokey_pjt.egg-info/PKG-INFO
+writing dependency_links to rokey_pjt.egg-info/dependency_links.txt
+writing entry points to rokey_pjt.egg-info/entry_points.txt
+writing requirements to rokey_pjt.egg-info/requires.txt
+writing top-level names to rokey_pjt.egg-info/top_level.txt
+writing manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+reading manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+writing manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mi/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey-pjt.egg-link (link to .)
+Installing capture_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+Installing cont_cap_image script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+Installing det_obj script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+Installing det_obj_thread script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+Installing det_obj_track script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+Installing tf_trans script to /home/mi/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+
+Installed /home/mi/rokey_ws/build/rokey_pjt
+running symlink_data
+creating /home/mi/rokey_ws/install/rokey_pjt/share/ament_index
+creating /home/mi/rokey_ws/install/rokey_pjt/share/ament_index/resource_index
+creating /home/mi/rokey_ws/install/rokey_pjt/share/ament_index/resource_index/packages
+symbolically linking /home/mi/rokey_ws/build/rokey_pjt/resource/rokey_pjt -> /home/mi/rokey_ws/install/rokey_pjt/share/ament_index/resource_index/packages
+symbolically linking /home/mi/rokey_ws/build/rokey_pjt/package.xml -> /home/mi/rokey_ws/install/rokey_pjt/share/rokey_pjt
